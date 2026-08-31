@@ -70,6 +70,10 @@ Designed and deployed a **Streamlit-based analytics dashboard** providing:
 
 ![Density Classification & Event Logs](ml-density-and-event-logs.png)
 
+## Model Weights
+
+The **YOLOv8n pretrained model weights (`yolov8n.pt`) are not included in this repository** due to file-size considerations. The required weights can be obtained through the standard YOLO/Ultralytics model download mechanism when running the project.
+
 ## Source Code
 
 > **Note:** The complete source code and implementation are maintained in a **private repository** and can be shared with recruiters or reviewers upon request.
